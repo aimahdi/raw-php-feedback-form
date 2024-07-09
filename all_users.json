@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Gennaro Gulgowski",
+        "email": "your.email+fakedata34067@gmail.com",
+        "password": "$2y$10$lWBttHxkewlDBU4ZuwG3vOzIhijJj2TtU45BDzVslGoccejgW6I8."
+    },
+    {
+        "id": 2,
+        "name": "Colton Turcotte",
+        "email": "your.email+fakedata28545@gmail.com",
+        "password": "$2y$10$9b5V4.41ohvpsng\/.7Jxbet1tIoIuCFQmTbDDf0WWQa9jdaeAPzSK"
+    },
+    {
+        "id": 3,
+        "name": "Sidney Schroeder",
+        "email": "your.email+fakedata40931@gmail.com",
+        "password": "$2y$10$uoR8dfJJ6NGn5hl3zmBd7OHKEWzw9tSuNvjTLnZWsCPR3cb6VVvlS"
+    },
+    {
+        "id": 4,
+        "name": "Willie Marvin",
+        "email": "your.email+fakedata87937@gmail.com",
+        "password": "$2y$10$xHOSP7R\/l4r0CFV5DivWhuw7gFTAtm2MJq962v9mj8d47j\/.hVTkm"
+    },
+    {
+        "id": 5,
+        "name": "Malvina Wehner",
+        "email": "your.email+fakedata76990@gmail.com",
+        "password": "$2y$10$ij3iT8n37NzoACgi7vIvS.chP\/pQ0qZx9iRkR242CyQyPwme3wdjC"
+    },
+    {
+        "id": 6,
+        "name": "Santos Collins",
+        "email": "your.email+fakedata86852@gmail.com",
+        "password": "$2y$10$sKsRBJ2mTfMl6306FKLr2e7N5tIl3jal4Kdi4TOYwbDM6eRItxjKK"
+    },
+    {
+        "id": 7,
+        "name": "Harmony Wolf",
+        "email": "your.email+fakedata23726@gmail.com",
+        "password": "$2y$10$b6C51stctg8.Dpb0DnRFA.9Vj8g2TybK8F3tqvD5rhaxj9BQoIHe2"
+    },
+    {
+        "id": 8,
+        "name": "Rahul Daniel",
+        "email": "your.email+fakedata54645@gmail.com",
+        "password": "$2y$10$Gafe7NWp8wOyFnD591kI..TNDHOQwlr50n2AtrOcpiGh2hNMIRVFK"
+    },
+    {
+        "id": 9,
+        "name": "Randall Walsh",
+        "email": "your.email+fakedata64326@gmail.com",
+        "password": "$2y$10$7gylSXBVQ\/QkupT9hiy99u8WJQF74.tbIrUvKo\/sl4K2ikOosSGDe"
+    },
+    {
+        "id": 10,
+        "name": "Enrico Turner",
+        "email": "your.email+fakedata72373@gmail.com",
+        "password": "$2y$10$MM4Lyptqo9CWoF.q7bfCuezVIqVnWTFqueX2wbHKLOa5OacU.zCwO"
+    },
+    {
+        "id": 11,
+        "name": "Amimul Ihsan",
+        "email": "mahdi.authlab@gmail.com",
+        "password": "$2y$10$vNKyEQe50SVKcYICHUyQbOCqzLM6PbWd2L2uc0frQ\/7odMaR709qC"
+    },
+    {
+        "id": 12,
+        "name": "Leopoldo Buckridge-Borer",
+        "email": "your.email+fakedata25352@gmail.com",
+        "password": "$2y$10$A.r6faYQLE9jrZBylUO1fegzGk9zLI8yAi8HF5LoekmXwNQiUJEIW"
+    }
+]
